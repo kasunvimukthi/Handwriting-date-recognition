@@ -42,7 +42,7 @@ The system **learns incrementally from real user corrections** and improves accu
 ---
 
 ## 📂 Project Structure
-.
+
 ├── char_dataset/
 │   ├── images/          # Saved 32×32 grayscale characters
 │   └── labels.txt       # filename<TAB>label
