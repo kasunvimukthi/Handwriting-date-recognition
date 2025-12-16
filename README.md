@@ -2,7 +2,9 @@
 
 A lightweight **handwritten date recognition system** built using **Python, OpenCV, and Keras (TensorFlow)**.  
 This project focuses on recognizing **simple handwritten digits (0–9)** from real images and is optimized for **date formats** such as:
-
+12/03/2025
+01-11-24
+2024/09/07
 
 The system **learns incrementally from real user corrections** and improves accuracy over time.
 
