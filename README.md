@@ -63,7 +63,7 @@ The system **learns incrementally from real user corrections** and improves accu
 - TensorFlow / Keras
 - NumPy
 
-### Install dependencies
+## Install dependencies
 
 ```bash
 pip install opencv-python tensorflow numpy
