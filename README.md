@@ -1,2 +1,2 @@
-# Handwriting-words-recognition
-Handwriting words recognition with TensorFlow
+# Handwriting-date-recognition
+Handwriting date recognition with TensorFlow
