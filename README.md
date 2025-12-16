@@ -64,8 +64,6 @@ The system **learns incrementally from real user corrections** and improves accu
 - NumPy
 
 ## Install dependencies
-
-```bash
 pip install opencv-python tensorflow numpy
 
 ##🔹 Run OCR on an image
