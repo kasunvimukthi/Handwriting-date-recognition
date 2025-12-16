@@ -66,7 +66,7 @@ The system **learns incrementally from real user corrections** and improves accu
 ## Install dependencies
 pip install opencv-python tensorflow numpy
 
-##🔹 Run OCR on an image
+## 🔹 Run OCR on an image
 python infer.py test.png
 
 * High-confidence predictions are accepted automatically
