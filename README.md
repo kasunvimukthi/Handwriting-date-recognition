@@ -43,17 +43,8 @@ The system **learns incrementally from real user corrections** and improves accu
 
 ## 📂 Project Structure
 
-├── char_dataset/
-│   ├── images/          # Saved 32×32 grayscale characters
-│   └── labels.txt       # filename<TAB>label
-│
-├── infer.py             # Main OCR inference & self-learning
-├── train.py             # CNN training with augmentation
-├── model.py             # CNN architecture
-├── preprocess.py        # Image preprocessing & augmentation
-├── segment.py           # Character segmentation
-├── fix_labels.py        # Sort labels file safely
-├── README.md
+<img width="516" height="316" alt="image" src="https://github.com/user-attachments/assets/f5716bd9-1d9a-49e1-8b11-1904cad3be9e" />
+
 
 
 ---
